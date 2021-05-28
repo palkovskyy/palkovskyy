@@ -1,0 +1,3 @@
+USE="X aac acpi alsa bluetooth elogind exif ffmpeg flac geolocation gsm javascript jpeg lame mp3 mp4 mysql mysqli php plasma \
+     upnp webp x264 zip -a52 -altivec -aqua -caps -cdinstall -cdr -cjk -css -cups -dvb -dvd -dvdr -emacs -xemacs -emboss \
+     -gnome -ieee1394 -ios -ipod -oracle -qt4 -qt5 -quicktime -smartcard -webengine -qtwebengine"
